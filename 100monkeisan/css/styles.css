@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+
+/* h1 {
+    text-align: center;
+} */
+
+table tr th {
+    width: 30px;
+}
+
+.arithmetic {
+    display: flex;
+    text-align: center;
+    margin: auto 100px;
+}
+
+.arithmetic p {
+    font-size: 25px;
+    margin: 20px auto;
+}
